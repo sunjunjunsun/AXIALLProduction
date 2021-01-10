@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\bin\Release\AXIALLProduction.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\bin\Release\AXIALLProduction.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\bin\Release\AXIALLProduction.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\AXIALLProduction\AXIALLProduction\obj\Release\AXIALLProduction.csprojResolveAssemblyReference.cache
